@@ -22,7 +22,7 @@ See source code for usage details. This file is a React component and requires a
 
 ## System Diagram
 ```mermaid
-graph TD
+flowchart TD
     A(App) --> B(Navbar);
     A --> C(Hero Section);
     A --> D(Experience Section);
